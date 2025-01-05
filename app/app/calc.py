@@ -11,4 +11,3 @@ def add(x, y):
 def sub(x, y):
     """Subtract x from y and return value"""
     return x-y
-    
